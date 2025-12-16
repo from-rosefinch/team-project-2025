@@ -1,6 +1,9 @@
 const App = () => {
   return (
-    <div>Team Project 2025</div>
+    <div>
+      <h1>Team Project 2025</h1>
+      <p>소스수정</p>
+    </div>
   )
 }
 
